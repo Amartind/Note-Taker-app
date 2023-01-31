@@ -4,21 +4,6 @@ let saveNoteBtn;
 let newNoteBtn;
 let noteList;
 
-const express = require('express')
-const router = require('../../../controllers/index')
-// let datajson = require('/pathto.json')
-const PORT = process.env.PORT || 3000;
-const app = express()
-app.use(express.json())
-app.use(express.urlencoded({extenede:true}))
-
-app.get('/', (req, res) =>{
-res.json(data)
-console.log(req.body)
-})
-
-app.listen(PORT, () =>{
-console.log(`Example app listening at https://localhost:${PORT}`)})
 
 if (window.location.pathname === '/notes') {
   noteTitle = document.querySelector('.note-title');
