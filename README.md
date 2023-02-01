@@ -29,8 +29,8 @@ Please installl the dependancies first and then you can start the server with no
 
     
     
-![alt text](Assets/note1.png)
-![alt text](Assets/note2.png)
+![Main page](/Assets/note1.PNG)
+![Note page](/Assets/note2.PNG)
 
     
     
