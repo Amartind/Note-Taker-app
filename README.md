@@ -26,11 +26,11 @@ npm i
     
 Please installl the dependancies first and then you can start the server with nodemon or node index.js and you should be able to open the link  provided and navigate through the pages. Add note by pressing the save button on top of the page and you can delete the note by pressing the red trashbin icon.
 
-To add a screenshot, create an 'assets/images'folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
     
-    '''md
-    ![alt text](assets/images/screenshot.png)
-    '''
+    
+![alt text](assets/images/screenshot.png)
+    
     
 ## Credits (#credits)
     
