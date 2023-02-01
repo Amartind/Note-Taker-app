@@ -29,7 +29,9 @@ Please installl the dependancies first and then you can start the server with no
 
     
     
-![alt text](assets/images/screenshot.png)
+![alt text](Assets/note1.png)
+![alt text](Assets/note2.png)
+
     
     
 ## Credits (#credits)
